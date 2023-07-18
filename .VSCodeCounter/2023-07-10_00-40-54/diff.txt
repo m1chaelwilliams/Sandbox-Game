@@ -1,0 +1,46 @@
+Date : 2023-07-10 00:40:54
+Directory : d:\dev\pygame\new-platformer
+Total : 14 files,  451 codes, 21 comments, 23 blanks, all 495 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         14 |        451 |         21 |         23 |        495 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                   |         14 |        451 |         21 |         23 |        495 |
+| . (Files)                                           |          1 |         17 |          2 |          2 |         21 |
+| crafting                                            |          1 |          5 |          0 |          0 |          5 |
+| groups                                              |          1 |         12 |          0 |          3 |         15 |
+| inventory                                           |          1 |         57 |          6 |          7 |         70 |
+| sprites                                             |          2 |        136 |          8 |          4 |        148 |
+| ui                                                  |          1 |         35 |          1 |          8 |         44 |
+| utils                                               |          2 |         41 |          1 |          2 |         44 |
+| world                                               |          5 |        148 |          3 |         -3 |        148 |
++-----------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                            | language | code       | comment    | blank      | total      |
++-----------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\dev\pygame\new-platformer\crafting\recipes.py    | Python   |          5 |          0 |          0 |          5 |
+| d:\dev\pygame\new-platformer\groups\camera.py       | Python   |         12 |          0 |          3 |         15 |
+| d:\dev\pygame\new-platformer\inventory\inventory.py | Python   |         57 |          6 |          7 |         70 |
+| d:\dev\pygame\new-platformer\main.py                | Python   |         17 |          2 |          2 |         21 |
+| d:\dev\pygame\new-platformer\sprites\player.py      | Python   |         59 |          6 |         -3 |         62 |
+| d:\dev\pygame\new-platformer\sprites\tile.py        | Python   |         77 |          2 |          7 |         86 |
+| d:\dev\pygame\new-platformer\ui\menus.py            | Python   |         35 |          1 |          8 |         44 |
+| d:\dev\pygame\new-platformer\utils\animations.py    | Python   |         32 |          0 |          2 |         34 |
+| d:\dev\pygame\new-platformer\utils\state.py         | Python   |          9 |          1 |          0 |         10 |
+| d:\dev\pygame\new-platformer\world\itemdata.py      | Python   |         42 |          0 |          1 |         43 |
+| d:\dev\pygame\new-platformer\world\prefabs.py       | Python   |          8 |          0 |          0 |          8 |
+| d:\dev\pygame\new-platformer\world\scene.py         | Python   |         73 |          3 |         -3 |         73 |
+| d:\dev\pygame\new-platformer\world\texturedata.py   | Python   |         43 |          0 |          1 |         44 |
+| d:\dev\pygame\new-platformer\world\worlddata.py     | Python   |        -18 |          0 |         -2 |        -20 |
+| Total                                               |          |        451 |         21 |         23 |        495 |
++-----------------------------------------------------+----------+------------+------------+------------+------------+

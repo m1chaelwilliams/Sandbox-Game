@@ -1,0 +1,9 @@
+"filename", "language", "Python", "JSON", "comment", "blank", "total"
+"d:\dev\pygame\new-platformer\inventory\inventory.py", "Python", 108, 0, 10, 13, 131
+"d:\dev\pygame\new-platformer\inventory\inventorydata.json", "JSON", 0, 1, 0, 0, 1
+"d:\dev\pygame\new-platformer\main.py", "Python", 1, 0, 0, 0, 1
+"d:\dev\pygame\new-platformer\sprites\player.py", "Python", 4, 0, -2, -1, 1
+"d:\dev\pygame\new-platformer\utils\controls.py", "Python", 1, 0, 0, 0, 1
+"d:\dev\pygame\new-platformer\world\itemdata.py", "Python", 11, 0, 0, 0, 11
+"d:\dev\pygame\new-platformer\world\scene.py", "Python", 4, 0, 0, 0, 4
+"Total", "-", 129, 1, 8, 12, 150

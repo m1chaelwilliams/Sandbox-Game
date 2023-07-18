@@ -1,0 +1,10 @@
+Conventions I'm using for this project.
+
+*** GENERAL ***
+names = "_" between each word + no upper case
+dict keys = All lower case !
+
+*** SPECIFICS ***
+
+Sprite Groups = {name}_group
+Animations = {name}_{action}    # ex. player_running

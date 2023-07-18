@@ -1,0 +1,44 @@
+Date : 2023-07-07 15:49:30
+Directory : d:\dev\pygame\new-platformer
+Total : 13 files,  546 codes, 26 comments, 71 blanks, all 643 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         12 |        545 |         26 |         71 |        642 |
+| JSON     |          1 |          1 |          0 |          0 |          1 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                         |         13 |        546 |         26 |         71 |        643 |
+| . (Files)                                                 |          2 |         43 |          1 |          6 |         50 |
+| groups                                                    |          1 |         14 |          0 |          3 |         17 |
+| inventory                                                 |          2 |        115 |         10 |         14 |        139 |
+| sprites                                                   |          2 |        109 |         10 |         13 |        132 |
+| utils                                                     |          2 |         46 |          0 |          2 |         48 |
+| world                                                     |          4 |        219 |          5 |         33 |        257 |
++-----------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                  | language | code       | comment    | blank      | total      |
++-----------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\dev\pygame\new-platformer\globals.py                   | Python   |          7 |          1 |          1 |          9 |
+| d:\dev\pygame\new-platformer\groups\camera.py             | Python   |         14 |          0 |          3 |         17 |
+| d:\dev\pygame\new-platformer\inventory\inventory.py       | Python   |        114 |         10 |         14 |        138 |
+| d:\dev\pygame\new-platformer\inventory\inventorydata.json | JSON     |          1 |          0 |          0 |          1 |
+| d:\dev\pygame\new-platformer\main.py                      | Python   |         36 |          0 |          5 |         41 |
+| d:\dev\pygame\new-platformer\sprites\player.py            | Python   |        100 |         10 |         12 |        122 |
+| d:\dev\pygame\new-platformer\sprites\tile.py              | Python   |          9 |          0 |          1 |         10 |
+| d:\dev\pygame\new-platformer\utils\controls.py            | Python   |          8 |          0 |          1 |          9 |
+| d:\dev\pygame\new-platformer\utils\events.py              | Python   |         38 |          0 |          1 |         39 |
+| d:\dev\pygame\new-platformer\world\itemdata.py            | Python   |         47 |          0 |          4 |         51 |
+| d:\dev\pygame\new-platformer\world\scene.py               | Python   |        135 |          5 |         24 |        164 |
+| d:\dev\pygame\new-platformer\world\texturedata.py         | Python   |         19 |          0 |          3 |         22 |
+| d:\dev\pygame\new-platformer\world\worlddata.py           | Python   |         18 |          0 |          2 |         20 |
+| Total                                                     |          |        546 |         26 |         71 |        643 |
++-----------------------------------------------------------+----------+------------+------------+------------+------------+
