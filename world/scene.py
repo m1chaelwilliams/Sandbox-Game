@@ -61,8 +61,8 @@ class Scene:
 
         # temp
         self.player = Player([self.sprites], pygame.Surface((TILESIZE, TILESIZE*2)), (300, 0), {
-            'mass':5,
-            'speed':10,
+            'mass':15,
+            'speed':15,
             'block_group':self.block_group,
             'textures':self.textures,
             'app':self.app,
